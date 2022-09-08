@@ -1,4 +1,4 @@
-# Estructuras
+# Estructuras editar
 
 ```c++
 //Se crea la estructura
