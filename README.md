@@ -1,4 +1,4 @@
-# Estructuras editando
+# Estructuras
 
 ```c++
 //Se crea la estructura
@@ -30,3 +30,5 @@ void loop()
   delay(5000);
 }
 ```
+
+* Las estructuras es una agrupacion de datos, los cuales pueden ser de diferentes tipos
