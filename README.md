@@ -31,4 +31,4 @@ void loop()
 }
 ```
 
-* Las estructuras es una agrupacion de datos, los cuales pueden ser de diferentes tipos
+* Una estructura es una agrupacion de datos los cuales pueden ser de diferentes tipos
